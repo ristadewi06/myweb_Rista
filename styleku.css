@@ -1,0 +1,28 @@
+table,tr,td{
+background-color: #CCFFFF ;
+font-family: century gothic;
+color: 	#333399;
+border: 1px solid #66CCFF;
+padding: 5px;
+border-collapse: collapse;
+}
+.h{
+border: 8px groove #00ccff;
+padding: 20px;
+}
+.posisi{
+position: absolute;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: auto;
+margin-top: auto;
+left: 0;
+right: 0;
+top: 100px;
+bottom: 0;
+}
+body{
+background-image: url('123.jpg');
+background-repeat: no-repeat;
+background-size: 1400px auto;
+}
